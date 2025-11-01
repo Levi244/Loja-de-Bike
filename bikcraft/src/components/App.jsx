@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <Header>
-        <Logo/>
+        <Logo text='bikcraft'/>
       </Header>
     </>
   );
